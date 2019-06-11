@@ -1,10 +1,10 @@
-<?php
+﻿<?php
 /*
 Plugin Name: Thrive Leads čeština
 Plugin URI: https://www.danielnytra.cz/thrive-leads-cestina
 Description: Přeloží plugin Thrive Leads do češtiny
 
-Version: 0.1
+Version: 0.3
 Requires at least: 3.0
 
 Author: Daniel Nytra
@@ -35,6 +35,3 @@ class Thrive_Leads_cestina {
 	
 }
 $my_plugin = new Thrive_Leads_cestina(__FILE__);
-
-
-require_once dirname( __FILE__ ) . '/widget.php';

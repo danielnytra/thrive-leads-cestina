@@ -1,4 +1,4 @@
-=== ThriveLeads čeština ===
+﻿=== ThriveLeads čeština ===
 Contributors: Daniel Nytra
 Tags: Thrive Leads
 Requires at least: 3.0
@@ -29,6 +29,12 @@ Na blogu <a href="https://www.danielnytra.cz" target="_blank">Daniela Nytry</a> 
 Pokud naleznete chybu, zdělte nám to prosím na <a href="mailto:daniel.nytra@gmail.com">email</a>.
 
 == Changelog ==
+
+= O.3 =
+* Aktualizace překladu
+
+= O.2 =
+* Aktualizace překladu
 
 = 0.1 =
 * Spuštění a zveřejnění pluginu.
